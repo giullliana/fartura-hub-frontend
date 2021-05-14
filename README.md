@@ -49,29 +49,44 @@
 :heavy_check_mark: Criação dos atributos e funcionalidades da model de usuário
 
 
+## Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
+
+Este projeto foi gerado com a versão 11.2.10 do [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+No terminal, execute o comando `ng serve`. Vá para `http://localhost:4200/`. O app automaticamente irá recarregar se você alterar qualquer um dos arquivos do tipo 'source'.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+No terminal, execute o comando `ng generate component component-name` para gerar um novo componente. Também é possível utilizar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+No terminal, execute o comando `ng build` para "construir" o projeto. Os arquivos do tipo 'build artifacts' serão armazenados dentro do diretório `dist/`. Utilize o também `--prod` para 'build' de construção.
+
+## Running unit tests (Realizar testes unitários)
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+No terminal, execute o comando `ng test`para realizar testes unitários por meio do [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests (Realizar testes end-to-end)
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+No terminal, execute o comando `ng e2e` para realizar testes do tipo end-to-end por meio do [Protractor](http://www.protractortest.org/).
+
+## Further help (Ajuda extra)
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Caso necessite de mais ajuda com Angular CLI, utilize `ng help` ou acesse a página [Angular CLI Overview and Command Reference](https://angular.io/cli).
