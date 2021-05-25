@@ -38,7 +38,7 @@
 
   :information_source: jquery@Latest;
 
-  :information_source: popper.js;
+  :information_source: popper.js
 
 
 :heavy_check_mark: Criação dos atributos e funcionalidades da model de postagem
